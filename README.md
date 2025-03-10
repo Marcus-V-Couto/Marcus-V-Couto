@@ -1,13 +1,15 @@
-## Bem-vindo(a) ao perfil do Marcus Vinícius Couto
+## Bem-vindo(a) ao perfil de Marcus Vinícius Couto
 
- <div>
+<div>
    <a href="https://github.com/Marcus-V-Couto">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcus-V-Couto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-V-Couto&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python.svg">
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
  
 <br>
